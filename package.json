@@ -1,0 +1,15 @@
+{
+  "name": "space-explorer-line-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "claudia-bot-builder": "git://github.com/claudiajs/claudia-bot-builder.git#fix\/line-platform-authorization",
+    "huh": "^2.0.1"
+  }
+}
